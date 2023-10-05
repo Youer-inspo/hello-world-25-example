@@ -44,15 +44,6 @@ def drawDecorativePattern():
 # Call the function to draw the decorative pattern
 drawDecorativePattern()
 
-# Convert the canvas to a PIL image
-def canvas_to_image(canvas):
-    canvas.postscript(file="tmp_canvas.ps", colormode="color")
-    img = Image.open("tmp_canvas.ps")
-    return img
-
-# Convert canvas to PIL image and paste it onto a new image
-canvas_image = canvas_to_image(canvas)
-
 # Resize the image using LANCZOS resampling
 myImage = myImage.resize((600, 600), Image.LANCZOS)
 
@@ -61,5 +52,6 @@ myImage.save("Rainfall.png", bitmap_format="png")
 
 # Convert the image to a Tkinter PhotoImage
 myImage = ImageTk.PhotoImage(myImage)
+canvas.create_image(600, 600, image=myImage, anchor="nw")
 
 app.mainloop()
