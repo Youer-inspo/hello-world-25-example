@@ -6,6 +6,7 @@ For this week, I upgraded the code from the last week.
 The clock becomes a character itself.
 <br />
 
+
 <img width="725" alt="rest" src="https://github.com/Youer-inspo/hello-world-25-example/assets/144563517/f18777be-65fc-4ab5-9f7a-38830a82b394">
 
 While resting, his eyes are black and looking at the hovering ball. The ball is controlled with mouse movement.
