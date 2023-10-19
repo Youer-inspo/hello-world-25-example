@@ -1,2 +1,2 @@
-# hello-world-25-example
-week3 homework
+# Week 6_ Making Character
+week6 homework
