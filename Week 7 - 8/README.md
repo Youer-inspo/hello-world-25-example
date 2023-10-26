@@ -38,7 +38,7 @@ Here is the sketch of the game:
    He is happy that you made it!
 
 ![5](https://github.com/Youer-inspo/hello-world-25-example/assets/144563517/04bb14bb-3eb6-4742-aba5-ef5824eab750)
-5. And a "Win!!!" button shows up with sound effects.
+5. A "Win!!!" button shows up with sound effects.
 
 PS: I'll consider adding sound effects to the game. Every click with sound!
 
