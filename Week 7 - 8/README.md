@@ -42,8 +42,6 @@ Here is the sketch of the game:
 
 PS: I'll consider adding sound effects to the game. Every click with sound!
 
-[Still in constructing ...]
-
 
 
 
