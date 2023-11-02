@@ -44,6 +44,9 @@ PS: I'll consider adding sound effects to the game. Every click with sound!
 
 [Still in constructing ...]
 
+
+
+
 **week8**
 
 As for building the game, there are some tech shortage for me to write what I expect...
