@@ -48,25 +48,29 @@ PS: I'll consider adding sound effects to the game. Every click with sound!
 
 As for building the game, there are some tech shortage for me to write what I expect...
 So the game changed into this!
-
+<br />
 
 <img width="734" alt="1" src="https://github.com/Youer-inspo/hello-world-25-example/assets/144563517/0740ce9b-4764-4991-8fb7-ea294f71a828">
 1. This is the intro of the game. The eyes of the clock are black and follow the circle on the screen.
 
 Click the button to start the game!
 
+<br />
 
 <img width="735" alt="2" src="https://github.com/Youer-inspo/hello-world-25-example/assets/144563517/baad9802-3117-423e-894a-fe47e9e419aa">
 2. Dots will randomly placing with every mouse click!
 
+<br />
 
 <img width="740" alt="4" src="https://github.com/Youer-inspo/hello-world-25-example/assets/144563517/bbea5803-9059-475b-b0be-44b8f6054aff">
 3. Oops! A dot is on his eyes, pupils or mouth... Sorry, game over
 
+<br />
 
 <img width="741" alt="3" src="https://github.com/Youer-inspo/hello-world-25-example/assets/144563517/3fd3845f-a3b1-476c-8a1b-56f1a27f02bf">
 4. Placed 20 dots on his face, all avoiding his eyes, pupils and mouth. You WIN!!!
 
+<br />
 
 PS: As to restart the game, just hit return!
 
